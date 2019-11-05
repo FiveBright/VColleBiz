@@ -31,4 +31,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 #### clone a specific branch in git
-git clone -b vcross-1.0.1 https://github.com/JSMetta/VCross.git
+git clone -b vcross-1.0.1 https://github.com/FiveBright/VColleBiz.git
